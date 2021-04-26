@@ -1,3 +1,3 @@
-module github.com/gopherschool/http-rest-api
+module github.com/zhashkevych/todo-app
 
 go 1.16
